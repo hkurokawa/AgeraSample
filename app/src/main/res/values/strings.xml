@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Agera Sample</string>
+    <string name="error">Failed to fetch the tweets.</string>
+</resources>
